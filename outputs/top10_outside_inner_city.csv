@@ -1,0 +1,11 @@
+Rank,Suburb (SA2),Region,Households,% no car,% renting,% aged 25-34,Demand score,Km to car depot,Nearest car depot,Km to campervan depot
+19,Clayton (North) - Notting Hill,South east,2933,20.0,64.7,29.5,0.94,2.0,Hertz Mulgrave (Clayton),10.8
+20,Footscray,West,7245,21.3,56.8,30.3,0.94,1.2,Hertz West Melbourne (Footscray),6.5
+35,Box Hill,Inner east,8964,18.1,47.9,21.4,0.9,2.7,Budget Blackburn,8.8
+37,Clayton - Central,South east,4095,13.0,57.0,30.8,0.89,0.6,Budget Clayton,9.2
+38,Hawthorn - South,Inner east,5365,15.3,47.6,24.1,0.89,2.5,Hertz Glen Iris,12.6
+39,Dandenong - North,South east,7133,13.8,55.8,20.7,0.87,0.7,Budget Dandenong,10.0
+40,Preston - East,North east,8485,14.2,43.9,21.8,0.87,1.1,Hertz Preston,3.6
+41,Ardeer - Albion,West,2843,14.4,41.4,21.3,0.86,3.4,Hertz Deer Park,8.4
+42,Broadmeadows,North west,4243,13.9,49.2,20.1,0.86,2.5,Budget Campbellfield,3.3
+44,Carnegie,Inner south,8050,12.7,43.0,22.0,0.86,3.1,Budget Bentleigh East,13.0

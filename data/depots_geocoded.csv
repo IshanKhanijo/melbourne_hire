@@ -1,0 +1,66 @@
+name,brand,type,address,precision,source,lat,lon
+Apollo / Cheapa Campa Melbourne,Apollo,campervan,"40-46 Hume Highway, Somerton VIC 3062",street,britz.com help page (verified 6 Oct),-37.640408993531,144.95146900646
+Britz / maui / Mighty Melbourne,Britz,campervan,"40-46 Hume Highway, Somerton VIC 3062",street,britz.com branch changes (verified 6 Oct),-37.640408993531,144.95146900646
+JUCY Melbourne Airport,JUCY,campervan,"1 Silicon Place, Tullamarine VIC 3043",street,jucy.com (verified 6 Oct),-37.713981986844,144.873086980019
+Travellers Autobarn Melbourne,Travellers Autobarn,campervan,"5 Assembly Drive, Tullamarine VIC 3043",street,Camper Champ listing,-37.712699010834,144.862438023492
+Cruisin / GoCheap Melbourne,Cruisin,campervan,"25-27 Catalina Drive, Tullamarine VIC 3043",street,Camper Champ listing,-37.689728991915,144.879960978813
+Indie Campers Melbourne,Indie Campers,campervan,"1872-1874 Sydney Road, Campbellfield VIC 3061",street,Camper Champ listing,-37.662847390241,144.954768207369
+Camperman Melbourne,Camperman,campervan,"273 Elizabeth Street, Coburg VIC 3058",street,campermanaustralia.com (verified 6 Oct),-37.722417995204,144.98489201301
+Campervan Village Melbourne,Campervan Village,campervan,"45 Bond Street, Ringwood VIC 3134",street,campervanvillage.com (verified 6 Oct),-37.814166977915,145.222691970515
+Zu Motorhomes Melbourne,Zu Motorhomes,campervan,"112 Boundary Road, Braeside VIC 3195",street,Camper Champ listing,-38.003951370718,145.105027484291
+Around Australia Motorhomes,Around Australia Motorhomes,campervan,"30 Enterprise Avenue, Berwick VIC 3806",street,Yellow Pages listing,-38.036865009012,145.340588970734
+Spaceships Melbourne,Spaceships,campervan,Williamstown North VIC 3016,suburb,Campotrip listing (street not confirmed),-37.8535,144.873
+Calypso Campervans,Calypso,campervan,Ringwood VIC 3134,suburb,research doc 6 Oct (street not confirmed),-37.814262,145.227386
+Awesome Campers,Awesome Campers,campervan,Ringwood VIC 3134,suburb,research doc 6 Oct (street not confirmed),-37.814262,145.227386
+East Coast Melbourne Airport,East Coast,car,"2 Tarmac Drive, Tullamarine VIC 3043",street,eastcoastcarrentals.com.au,-37.693646986826,144.871366007659
+East Coast Melbourne City A'Beckett St,East Coast,car,"228 A'Beckett Street, Melbourne VIC 3000",street,eastcoastcarrentals.com.au,-37.810287078754,144.95665011227
+East Coast Melbourne City Collins St,East Coast,car,"123 Collins Street, Melbourne VIC 3000",street,DiscoverCars / Spirit of Tasmania listing,-37.815298576753,144.969839456011
+Bargain Melbourne Airport,Bargain,car,"3 Annandale Road, Melbourne Airport VIC 3045",street,Bargain site and Trustpilot listing,-37.701388215511,144.850474787876
+Europcar Melbourne City,Europcar,car,"89-91 Franklin Street, Melbourne VIC 3000",street,Kayak / Seniors Online listing,-37.808028323486,144.961680679099
+Europcar Southbank,Europcar,car,"50-54 Clarendon Street, Southbank VIC 3006",street,Expedia listing,-37.826176275418,144.957146656214
+Europcar Dandenong,Europcar,car,"28-30 Lonsdale Street, Dandenong VIC 3175",street,DiscoverCars listing,-37.999207003973,145.223711964313
+Europcar Epping,Europcar,car,"250 Cooper Street, Epping VIC 3076",street,Expedia listing (at Mantra Epping),-37.649525989615,145.008353295274
+Hertz Melbourne Airport,Hertz,car,"Arrival Drive, Melbourne Airport VIC 3045",street,hertz.com.au Melbourne page,-37.669457697334,144.850505167568
+Hertz Tullamarine,Hertz,car,"16 Tarmac Drive, Tullamarine VIC 3043",street,hertz.com.au Melbourne page,-37.693162890008,144.871958608214
+Hertz Melbourne CBD,Hertz,car,"Franklin Street, Melbourne VIC 3000",suburb,hertz.com.au Melbourne page (street number not shown),-37.808556317633,144.958746246342
+Hertz South Yarra,Hertz,car,"408 Punt Road, South Yarra VIC 3141",street,hertz.com.au Melbourne page,-37.838952014148,144.986577027005
+Hertz South Melbourne,Hertz,car,"124 Thistlethwaite Street, South Melbourne VIC 3205",street,hertz.com.au Melbourne page,-37.832330310639,144.949981553922
+Hertz West Melbourne (Footscray),Hertz,car,"128 Whitehall Street, Footscray VIC 3011",street,hertztrucks.com.au,-37.80784878312,144.902710721317
+Hertz Preston,Hertz,car,"234-242 High Street, Preston VIC 3072",street,hertz.com.au Melbourne page,-37.743572619624,145.003291044851
+Hertz Glen Iris,Hertz,car,"16 Weir Street, Glen Iris VIC 3146",street,hertz.com.au Melbourne page,-37.849679006194,145.045019008706
+Hertz Moorabbin,Hertz,car,"234 Chesterville Road, Moorabbin VIC 3189",street,hertz.com.au Melbourne page,-37.94346097761,145.06002697398
+Hertz Mulgrave (Clayton),Hertz,car,"2211 Dandenong Road, Mulgrave VIC 3170",street,hertz.com.au Melbourne page,-37.926932996105,145.147836965112
+Hertz Noble Park,Hertz,car,"391-395 Princes Highway, Noble Park VIC 3174",street,hertz.com.au Melbourne page,-37.961549040844,145.187808668794
+Hertz Pakenham,Hertz,car,"61 Bald Hill Road, Pakenham VIC 3810",street,hertz.com.au Melbourne page,-38.0835980168,145.490797034228
+Hertz Hoppers Crossing,Hertz,car,"319 Princes Highway, Hoppers Crossing VIC 3029",street,hertz.com.au Melbourne page,-37.884515201619,144.699709911225
+Hertz Deer Park,Hertz,car,"71 Elgar Road, Derrimut VIC 3026",street,hertztrucks.com.au,-37.786829610256,144.772900270658
+Hertz Mitcham,Hertz,car,Mitcham VIC 3132,suburb,hertz.com.au Mitcham page,-37.8177752,145.1916492
+Budget Melbourne Airport,Budget,car,Melbourne Airport VIC 3045,suburb,budget.com.au Victoria locations,-37.6705307,144.8489372
+Budget Melbourne Downtown,Budget,car,Melbourne VIC 3000,suburb,budget.com.au Victoria locations,-37.8153434,144.9632276
+Budget Southern Cross,Budget,car,"Spencer Street, Docklands VIC 3008",suburb,budget.com.au Victoria locations,-37.818138353029,144.953642819957
+Budget South Melbourne,Budget,car,South Melbourne VIC 3205,suburb,budget.com.au Victoria locations,-37.8323792,144.9604333
+Budget South Yarra,Budget,car,South Yarra VIC 3141,suburb,budget.com.au Victoria locations,-37.8401335,144.995284
+Budget Richmond,Budget,car,Richmond VIC 3121,suburb,budget.com.au Victoria locations,-37.8193,145.001
+Budget Airport West,Budget,car,Airport West VIC 3042,suburb,budget.com.au Victoria locations,-37.7232,144.886
+Budget Altona North,Budget,car,Altona North VIC 3025,suburb,budget.com.au Victoria locations,-37.8345804,144.8474245
+Budget Brooklyn,Budget,car,Brooklyn VIC 3012,suburb,budget.com.au Victoria locations,-37.8191,144.841
+Budget Maribyrnong,Budget,car,Maribyrnong VIC 3032,suburb,budget.com.au Victoria locations,-37.774,144.889
+Budget Sunshine,Budget,car,Sunshine VIC 3020,suburb,budget.com.au Victoria locations,-37.8022,144.839
+Budget Hoppers Crossing,Budget,car,Hoppers Crossing VIC 3029,suburb,budget.com.au Victoria locations,-37.8821928,144.7004536
+Budget Campbellfield,Budget,car,Campbellfield VIC 3061,suburb,budget.com.au Victoria locations,-37.678678,144.957008
+Budget Preston,Budget,car,Preston VIC 3072,suburb,budget.com.au Victoria locations,-37.738889,145.0041133
+Budget Bundoora,Budget,car,Bundoora VIC 3083,suburb,budget.com.au Victoria locations,-37.6969263,145.0586386
+Budget Camberwell,Budget,car,Camberwell VIC 3124,suburb,budget.com.au Victoria locations,-37.8425667,145.0693626
+Budget Blackburn,Budget,car,Blackburn VIC 3130,suburb,budget.com.au Victoria locations,-37.8194637,145.1534068
+Budget Bayswater North,Budget,car,Bayswater North VIC 3153,suburb,budget.com.au Victoria locations,-37.8264,145.284
+Budget Lilydale,Budget,car,Lilydale VIC 3140,suburb,budget.com.au Victoria locations,-37.757549,145.350281
+Budget Ferntree Gully,Budget,car,Ferntree Gully VIC 3156,suburb,budget.com.au Victoria locations,-37.883583,145.295395
+Budget Clayton,Budget,car,Clayton VIC 3168,suburb,budget.com.au Victoria locations,-37.926212,145.119553
+Budget Dandenong,Budget,car,Dandenong VIC 3175,suburb,budget.com.au Victoria locations,-37.9874598,145.2148612
+Budget Bentleigh East,Budget,car,Bentleigh East VIC 3165,suburb,budget.com.au Victoria locations,-37.9211647,145.0598286
+Budget Brighton,Budget,car,Brighton VIC 3186,suburb,budget.com.au Victoria locations,-37.9056598,145.0043117
+Budget Highett,Budget,car,Highett VIC 3190,suburb,budget.com.au Victoria locations,-37.9488552,145.0428519
+Budget Frankston,Budget,car,Frankston VIC 3199,suburb,budget.com.au Victoria locations,-38.1413993,145.1224639
+Budget Mornington,Budget,car,Mornington VIC 3931,suburb,budget.com.au Victoria locations,-38.220583,145.0394132
+Budget Cranbourne,Budget,car,Cranbourne VIC 3977,suburb,budget.com.au Victoria locations,-38.1075,145.28
+Budget Pakenham,Budget,car,Pakenham VIC 3810,suburb,budget.com.au Victoria locations,-38.0717,145.477

@@ -1,0 +1,7 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Large ABS Census GeoPackages (>100 MB, over GitHub's limit) - zipped copies go in data/census/
+data/*.gpkg

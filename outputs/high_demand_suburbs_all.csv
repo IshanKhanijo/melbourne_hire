@@ -1,0 +1,76 @@
+Rank,Suburb (SA2),Region,Households,% no car,% renting,% aged 25-34,Demand score,Km to car depot,Nearest car depot,Km to campervan depot
+1,Melbourne CBD - West,Inner city,7864,68.8,77.3,45.8,1.0,0.4,Budget Melbourne Downtown,8.6
+2,Melbourne CBD - North,Inner city,8584,77.6,78.3,39.9,1.0,0.1,Europcar Melbourne City,9.2
+3,Southbank - East,Inner city,8417,42.2,69.3,43.6,0.99,0.8,Europcar Southbank,8.7
+4,Melbourne CBD - East,Inner city,4610,66.3,70.2,35.9,0.99,0.3,East Coast Melbourne City Collins St,9.6
+5,Carlton,Inner city,6951,49.1,73.4,33.6,0.99,1.0,Europcar Melbourne City,8.8
+6,Docklands,Inner city,7449,40.9,67.6,39.0,0.99,0.9,Budget Southern Cross,7.3
+7,West Melbourne - Residential,Inner city,3488,36.2,65.6,39.9,0.98,0.6,East Coast Melbourne City A'Beckett St,8.4
+8,South Yarra - North,Inner city,6092,31.6,66.8,40.1,0.98,0.5,Budget South Yarra,11.0
+9,Southbank (West) - South Wharf,Inner city,3268,36.3,63.0,36.7,0.98,0.2,Europcar Southbank,8.0
+10,Collingwood,Inner city,4418,28.8,65.2,36.5,0.97,2.2,East Coast Melbourne City Collins St,8.8
+11,North Melbourne,Inner city,6752,33.3,64.8,29.4,0.97,1.6,Hertz Melbourne CBD,8.8
+12,St Kilda - Central,Inner city,6335,24.3,62.3,33.1,0.96,2.8,Budget South Yarra,10.0
+13,South Yarra - South,Inner city,4948,26.6,60.1,31.2,0.96,0.3,Budget South Yarra,10.8
+14,Fitzroy,Inner city,4486,27.5,59.8,29.4,0.96,1.7,Europcar Melbourne City,8.7
+15,Richmond - North,Inner city,6543,23.4,61.1,31.2,0.96,0.5,Budget Richmond,10.4
+16,St Kilda - West,Inner city,6749,24.1,58.5,26.7,0.95,2.6,Hertz South Yarra,9.1
+17,Prahran - Windsor,Inner city,9570,22.3,55.5,32.2,0.95,1.4,Budget South Yarra,11.0
+18,Abbotsford,Inner city,4354,21.3,55.8,36.0,0.95,1.6,Budget Richmond,9.2
+19,Clayton (North) - Notting Hill,South east,2933,20.0,64.7,29.5,0.94,2.0,Hertz Mulgrave (Clayton),10.8
+20,Footscray,West,7245,21.3,56.8,30.3,0.94,1.2,Hertz West Melbourne (Footscray),6.5
+21,Flemington,Inner city,4041,21.9,60.4,26.4,0.94,3.6,Hertz West Melbourne (Footscray),8.3
+22,Brunswick - South,Inner city,5843,22.2,51.0,31.2,0.94,4.1,Europcar Melbourne City,5.9
+23,Port Melbourne Industrial,Inner city,771,17.3,60.4,40.5,0.94,2.7,Hertz South Melbourne,4.8
+24,Brunswick East,Inner city,6014,18.8,53.5,33.2,0.93,3.6,Hertz Preston,5.2
+25,Brunswick - North,Inner city,5579,20.3,46.7,27.7,0.92,4.0,Hertz Preston,4.7
+26,St Kilda East,Inner city,7365,19.0,51.4,27.8,0.92,3.0,Budget South Yarra,11.1
+27,South Melbourne,Inner city,5570,22.8,54.9,20.7,0.92,0.3,Budget South Melbourne,7.9
+28,South Yarra - West,Inner city,3019,20.0,53.4,23.6,0.92,0.4,Hertz South Yarra,9.7
+29,Fitzroy North,Inner city,5418,19.3,49.2,24.7,0.92,3.3,Europcar Melbourne City,6.8
+30,Parkville,Inner city,2127,17.9,64.6,23.2,0.92,2.5,Hertz Melbourne CBD,7.8
+31,Richmond (South) - Cremorne,Inner city,7929,16.0,49.6,32.5,0.92,0.9,Budget Richmond,11.7
+32,East Melbourne,Inner city,2373,19.0,53.2,23.3,0.91,1.0,East Coast Melbourne City Collins St,10.4
+33,Carlton North - Princes Hill,Inner city,3430,16.2,48.6,26.2,0.91,2.5,Europcar Melbourne City,7.2
+34,Kensington (Vic.),Inner city,4676,16.9,49.7,23.7,0.9,2.6,Hertz West Melbourne (Footscray),8.1
+35,Box Hill,Inner east,8964,18.1,47.9,21.4,0.9,2.7,Budget Blackburn,8.8
+36,Brunswick West,Inner city,6338,15.2,48.2,25.2,0.9,4.9,Budget Maribyrnong,5.9
+37,Clayton - Central,South east,4095,13.0,57.0,30.8,0.89,0.6,Budget Clayton,9.2
+38,Hawthorn - South,Inner east,5365,15.3,47.6,24.1,0.89,2.5,Hertz Glen Iris,12.6
+39,Dandenong - North,South east,7133,13.8,55.8,20.7,0.87,0.7,Budget Dandenong,10.0
+40,Preston - East,North east,8485,14.2,43.9,21.8,0.87,1.1,Hertz Preston,3.6
+41,Ardeer - Albion,West,2843,14.4,41.4,21.3,0.86,3.4,Hertz Deer Park,8.4
+42,Broadmeadows,North west,4243,13.9,49.2,20.1,0.86,2.5,Budget Campbellfield,3.3
+43,Thornbury,Inner city,7859,14.4,42.0,20.2,0.86,1.6,Hertz Preston,4.4
+44,Carnegie,Inner south,8050,12.7,43.0,22.0,0.86,3.1,Budget Bentleigh East,13.0
+45,Northcote - West,Inner city,4221,14.1,39.3,22.5,0.86,3.1,Hertz Preston,5.3
+46,Coburg - East,Inner city,4997,14.7,38.5,21.3,0.86,2.8,Hertz Preston,2.8
+47,Armadale,Inner city,4295,13.4,44.7,20.5,0.86,2.3,Hertz Glen Iris,13.0
+48,Moonee Ponds,Inner city,6772,15.4,39.0,19.3,0.85,3.0,Budget Maribyrnong,7.1
+49,Reservoir - South East,North east,5055,14.6,42.0,18.9,0.85,2.2,Budget Preston,3.3
+50,Braybrook,West,6805,11.4,46.1,23.2,0.85,2.6,Budget Maribyrnong,7.7
+51,Elwood,Inner city,7027,11.3,51.6,21.6,0.85,3.2,Budget Brighton,10.4
+52,Sunshine,West,3287,12.3,41.3,20.9,0.84,1.5,Budget Sunshine,7.9
+53,Hawthorn - North,Inner east,4008,12.6,43.1,19.7,0.84,2.4,Budget Richmond,11.3
+54,West Footscray - Tottenham,West,4531,11.8,41.1,22.5,0.84,2.2,Budget Sunshine,5.8
+55,Heidelberg West,North east,5882,11.3,47.8,20.9,0.84,3.8,Budget Preston,5.9
+56,Albert Park,Inner city,7075,15.1,44.0,16.2,0.83,1.5,Budget South Melbourne,8.1
+57,Ormond - Glen Huntly,Inner south,5393,11.7,41.1,19.9,0.82,2.8,Budget Bentleigh East,12.8
+58,Northcote - East,Inner city,5990,13.2,37.2,19.1,0.82,3.4,Hertz Preston,6.1
+59,Reservoir - North East,North east,5964,10.8,39.5,22.1,0.82,3.4,Budget Bundoora,3.7
+60,Glenroy - West,North west,3135,10.4,39.6,24.9,0.82,2.9,Budget Airport West,3.1
+61,Burwood (Vic.),Inner east,4421,12.0,39.5,19.3,0.82,3.9,Budget Camberwell,10.4
+62,Hawthorn East,Inner east,6572,11.1,40.9,20.1,0.81,2.1,Hertz Glen Iris,13.4
+63,Dandenong - South,South east,2838,10.6,44.6,19.3,0.81,4.5,Europcar Dandenong,9.9
+64,Reservoir - South West,North east,5571,10.8,41.1,18.7,0.8,2.5,Budget Preston,0.9
+65,Noble Park - East,South east,4611,9.5,46.5,22.1,0.8,0.6,Hertz Noble Park,8.1
+66,Ascot Vale,Inner city,5877,12.0,38.4,17.4,0.8,2.2,Budget Maribyrnong,7.9
+67,Glenroy - East,North west,5270,10.7,37.4,20.3,0.8,3.2,Budget Campbellfield,4.7
+68,Springvale,South east,7027,10.3,40.3,20.4,0.8,2.3,Hertz Mulgrave (Clayton),8.0
+69,Alphington - Fairfield,Inner city,3663,12.0,37.8,17.1,0.8,3.9,Hertz Preston,6.8
+70,Seddon - Kingsville,West,3689,11.3,38.5,18.2,0.8,1.4,Hertz West Melbourne (Footscray),5.2
+71,St Albans - North,West,6681,10.5,38.9,18.5,0.78,5.8,Bargain Melbourne Airport,5.9
+72,Essendon - East,Inner city,5142,10.2,41.9,18.6,0.78,3.7,Budget Maribyrnong,5.8
+73,Doveton,South east,3927,9.6,42.8,19.1,0.78,1.7,Europcar Dandenong,10.2
+74,Clayton South,South east,4700,9.1,40.2,23.1,0.78,1.9,Budget Clayton,7.0
+75,Clifton Hill - Alphington,Inner city,3923,9.5,39.6,20.5,0.78,3.4,Budget Richmond,7.9
